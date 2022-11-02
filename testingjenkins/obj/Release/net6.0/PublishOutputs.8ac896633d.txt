@@ -1,0 +1,7 @@
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\testingjenkins.exe
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\testingjenkins.dll
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\testingjenkins.deps.json
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\testingjenkins.runtimeconfig.json
+D:\Devops-Jenkins\testingjenkins\testingjenkins\obj\Release\net6.0\PubTmp\Out\testingjenkins.pdb
